@@ -1,1 +1,12 @@
-123
+<<<<<<< HEAD
+123emmm.....
+
+asdfghjkk
+aqetyuiop[]
+asfsrgh
+=======
+123emmm.....
+121331
+asdfghjkk
+aqetyuiop[]
+>>>>>>> 8fd08237765c42f3ceaa639e9a8303232b55d65b
